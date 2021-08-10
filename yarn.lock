@@ -866,8 +866,8 @@
 
 "@bower_components/select2@ivaynberg/select2":
   version "4.1.0-beta.1"
-  uid b73e0be5e370ffbd433b15719d5433495105b1b2
-  resolved "https://codeload.github.com/ivaynberg/select2/tar.gz/b73e0be5e370ffbd433b15719d5433495105b1b2"
+  uid "1c0c2a94d1b70a185baff5b13c654411e2c01339"
+  resolved "https://codeload.github.com/ivaynberg/select2/tar.gz/1c0c2a94d1b70a185baff5b13c654411e2c01339"
 
 "@gulp-sourcemaps/identity-map@^2.0.1":
   version "2.0.1"
