@@ -823,10 +823,10 @@
   uid e037f460729567db05807430ec80c5cc9cedbdbf
   resolved "https://codeload.github.com/usablica/intro.js/tar.gz/e037f460729567db05807430ec80c5cc9cedbdbf"
 
-"@bower_components/lodash@lodash/lodash#4.17.5":
-  version "4.17.5"
-  uid "97e9edc53d2cc55df7adf765a003c800c54a6bda"
-  resolved "https://codeload.github.com/lodash/lodash/tar.gz/97e9edc53d2cc55df7adf765a003c800c54a6bda"
+"@bower_components/lodash@lodash/lodash#4.17.21":
+  version "4.17.21"
+  uid f299b52f39486275a9e6483b60a410e06520c538
+  resolved "https://codeload.github.com/lodash/lodash/tar.gz/f299b52f39486275a9e6483b60a410e06520c538"
 
 "@bower_components/mocha@mochajs/mocha":
   version "9.0.3"
