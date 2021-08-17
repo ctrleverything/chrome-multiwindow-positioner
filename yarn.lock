@@ -820,8 +820,8 @@
 
 "@bower_components/intro.js@usablica/intro.js":
   version "4.1.0"
-  uid e037f460729567db05807430ec80c5cc9cedbdbf
-  resolved "https://codeload.github.com/usablica/intro.js/tar.gz/e037f460729567db05807430ec80c5cc9cedbdbf"
+  uid f88591b1fec1018d408d40c0f882136942cd4d17
+  resolved "https://codeload.github.com/usablica/intro.js/tar.gz/f88591b1fec1018d408d40c0f882136942cd4d17"
 
 "@bower_components/lodash@lodash/lodash#4.17.21":
   version "4.17.21"
