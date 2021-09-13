@@ -829,9 +829,9 @@
   resolved "https://codeload.github.com/lodash/lodash/tar.gz/f299b52f39486275a9e6483b60a410e06520c538"
 
 "@bower_components/mocha@mochajs/mocha":
-  version "9.0.3"
-  uid bbf0c11b29544de91a18c1bd667c975ee44b7c90
-  resolved "https://codeload.github.com/mochajs/mocha/tar.gz/bbf0c11b29544de91a18c1bd667c975ee44b7c90"
+  version "9.1.1"
+  uid "27bfc7425fed7a9a9cadb6dabc536a0bd32abd7a"
+  resolved "https://codeload.github.com/mochajs/mocha/tar.gz/27bfc7425fed7a9a9cadb6dabc536a0bd32abd7a"
   dependencies:
     "@ungap/promise-all-settled" "1.1.2"
     ansi-colors "4.1.1"
