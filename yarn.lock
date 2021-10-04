@@ -921,8 +921,8 @@
 
 "@bower_components/mocha@mochajs/mocha":
   version "9.1.2"
-  uid "0ea732c1169c678ef116c3eb452cc94758fff150"
-  resolved "https://codeload.github.com/mochajs/mocha/tar.gz/0ea732c1169c678ef116c3eb452cc94758fff150"
+  uid "111467fa6fbcea153074d57442f15055c4cd592a"
+  resolved "https://codeload.github.com/mochajs/mocha/tar.gz/111467fa6fbcea153074d57442f15055c4cd592a"
   dependencies:
     "@ungap/promise-all-settled" "1.1.2"
     ansi-colors "4.1.1"
