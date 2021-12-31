@@ -890,9 +890,9 @@
     "@babel/types" "^7.4.4"
     esutils "^2.0.2"
 
-"@babel/register@>=7.16.0":
-  version "7.16.0"
-  resolved "https://registry.yarnpkg.com/@babel/register/-/register-7.16.0.tgz#f5d2aa14df37cf7146b9759f7c53818360f24ec6"
+"@babel/register@>=7.16.7":
+  version "7.16.7"
+  resolved "https://registry.yarnpkg.com/@babel/register/-/register-7.16.7.tgz#e7b3a6015d1646677538672106bdb3a0b4a07657"
   dependencies:
     clone-deep "^4.0.1"
     find-cache-dir "^2.0.0"
