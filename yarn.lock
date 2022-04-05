@@ -863,9 +863,9 @@
   resolved "https://codeload.github.com/eligrey/FileSaver.js/tar.gz/b5e61ec88969461ce0504658af07c2b56650ee8c"
 
 "@bower_components/intro.js@usablica/intro.js":
-  version "5.0.0"
-  uid e6364e4c18e251eb9f8d321771952758309096dd
-  resolved "https://codeload.github.com/usablica/intro.js/tar.gz/e6364e4c18e251eb9f8d321771952758309096dd"
+  version "5.1.0"
+  uid "55bac403388c5ee00d6c0139386d1687d9063877"
+  resolved "https://codeload.github.com/usablica/intro.js/tar.gz/55bac403388c5ee00d6c0139386d1687d9063877"
 
 "@bower_components/lodash@lodash/lodash#4.17.21":
   version "4.17.21"
