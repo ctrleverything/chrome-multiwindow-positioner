@@ -844,8 +844,8 @@
 
 "@bower_components/angular-resource@angular/bower-angular-resource":
   version "1.8.2"
-  uid b83e9b6ac74fe49585deb560e9f80b038b44d19f
-  resolved "https://codeload.github.com/angular/bower-angular-resource/tar.gz/b83e9b6ac74fe49585deb560e9f80b038b44d19f"
+  uid "05866135f8be68c044588c05252b8f3a24fd4995"
+  resolved "https://codeload.github.com/angular/bower-angular-resource/tar.gz/05866135f8be68c044588c05252b8f3a24fd4995"
 
 "@bower_components/angular-uuid4@monicao/angular-uuid4":
   version "0.3.2"
