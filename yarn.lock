@@ -853,9 +853,9 @@
   resolved "https://codeload.github.com/monicao/angular-uuid4/tar.gz/86e515ec79242049bd26eac4b10d59b6581e6b6e"
 
 "@bower_components/angular@angular/bower-angular":
-  version "1.8.2"
-  uid "0f1dc3041fcfe8b2449d27ff9828c8a3bb9a9b4b"
-  resolved "https://codeload.github.com/angular/bower-angular/tar.gz/0f1dc3041fcfe8b2449d27ff9828c8a3bb9a9b4b"
+  version "1.8.3"
+  uid "142f3c4bc7d43b6de39581a0d886bbf97f8b62ef"
+  resolved "https://codeload.github.com/angular/bower-angular/tar.gz/142f3c4bc7d43b6de39581a0d886bbf97f8b62ef"
 
 "@bower_components/file-saver@eligrey/FileSaver.js":
   version "2.0.5"
