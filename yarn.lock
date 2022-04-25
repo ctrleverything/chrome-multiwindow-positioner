@@ -843,9 +843,9 @@
   resolved "https://codeload.github.com/mendhak/angular-intro.js/tar.gz/a5b4f9f072a2b752a6d8a8461455c380948705a7"
 
 "@bower_components/angular-resource@angular/bower-angular-resource":
-  version "1.8.2"
-  uid b83e9b6ac74fe49585deb560e9f80b038b44d19f
-  resolved "https://codeload.github.com/angular/bower-angular-resource/tar.gz/b83e9b6ac74fe49585deb560e9f80b038b44d19f"
+  version "1.8.3"
+  uid c0217706b83e628301fb90bc8d7fbeff4540a20a
+  resolved "https://codeload.github.com/angular/bower-angular-resource/tar.gz/c0217706b83e628301fb90bc8d7fbeff4540a20a"
 
 "@bower_components/angular-uuid4@monicao/angular-uuid4":
   version "0.3.2"
