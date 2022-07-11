@@ -866,8 +866,8 @@
 
 "@bower_components/file-saver@eligrey/FileSaver.js":
   version "2.0.5"
-  uid b5e61ec88969461ce0504658af07c2b56650ee8c
-  resolved "https://codeload.github.com/eligrey/FileSaver.js/tar.gz/b5e61ec88969461ce0504658af07c2b56650ee8c"
+  uid "9806041b0e800979dddabbaa1b5f6ce6952d7cd7"
+  resolved "https://codeload.github.com/eligrey/FileSaver.js/tar.gz/9806041b0e800979dddabbaa1b5f6ce6952d7cd7"
 
 "@bower_components/intro.js@usablica/intro.js":
   version "5.1.0"
